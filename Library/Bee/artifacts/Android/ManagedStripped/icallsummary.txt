@@ -777,6 +777,8 @@ UnityEngine.PlayerPrefs::HasKey
 UnityEngine.PlayerPrefs::TrySetSetString
 UnityEngine.PlayerPrefs::GetString
 UnityEngine.PlayerPrefs::Save
+UnityEngine.Profiling.Profiler::BeginSampleImpl
+UnityEngine.Profiling.Profiler::EndSample
 UnityEngine.PropertyNameUtils::PropertyNameFromString_Injected
 UnityEngine.QualitySettings::get_vSyncCount
 UnityEngine.QualitySettings::set_vSyncCount

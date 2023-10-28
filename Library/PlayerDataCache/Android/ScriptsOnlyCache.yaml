@@ -1721,4 +1721,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/Scene1.unity
-  playerPath: D:/ModeloCaixa_Unity/Apagardps
+  playerPath: D:/ModeloCaixa_Unity/Builds/ARPIN.apk
