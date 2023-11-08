@@ -1196,10 +1196,14 @@ MonoBehaviour:
   items:
   - {fileID: 11400000, guid: 1a7edb9f7c610d04dbf07752d068826b, type: 2}
   - {fileID: 11400000, guid: 40818422b590593488920c53fc0f49f2, type: 2}
+  - {fileID: 11400000, guid: 98ac02c5aeea7c043b8dcde0d6a4a4bd, type: 2}
+  - {fileID: 11400000, guid: 8b29f29fe0e280d4c9fa89e62660eaca, type: 2}
+  - {fileID: 11400000, guid: 4be80ff29f38792488bb6a2a890948a0, type: 2}
   - {fileID: 11400000, guid: aa5a15e0ee7e0734a9fccba305f3110d, type: 2}
   - {fileID: 11400000, guid: 002ea3aa3cbe4ca40aeefe9a1d946353, type: 2}
   - {fileID: 11400000, guid: 9ce2f064e693da7469d9c28870446c28, type: 2}
   - {fileID: 11400000, guid: 17e5ad26ded3e2d49857e3f601678587, type: 2}
+  - {fileID: 11400000, guid: 258e5721d91a1244883d4e0f68d96d94, type: 2}
   buttonContainer: {fileID: 1051737371}
   itemButtonManager: {fileID: 8750296323360343297, guid: 0ecc65b8d6a15244fbc7f5721fd96dfe, type: 3}
 --- !u!4 &1044730915
@@ -1251,7 +1255,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8317046, y: 256014.38}
+  m_AnchoredPosition: {x: 9990607, y: 307199.75}
   m_SizeDelta: {x: 0, y: 440}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &1051737373

@@ -13,9 +13,6 @@ public class Item : ScriptableObject
     // Imagem do item.
     public Sprite ItemImage;
 
-    // Descrição do item.
-    public string ItemDescription;
-
     // Modelo 3D do item, que será utilizado no jogo.
     public GameObject Item3DModel;
 }

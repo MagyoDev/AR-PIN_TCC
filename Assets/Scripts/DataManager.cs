@@ -30,7 +30,6 @@ public class DataManager : MonoBehaviour
 
             // Configura as informações do item para o botão recém-criado
             itemButton.ItemName = item.ItemName;
-            itemButton.ItemDescription = item.ItemDescription;
             itemButton.ItemImage = item.ItemImage;
             itemButton.Item3DModel = item.Item3DModel;
 

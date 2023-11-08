@@ -26,7 +26,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a6004e26c9ccb55499f49e088a428717, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a6004e26c9ccb55499f49e088a428717, type: 3}
       propertyPath: m_LocalPosition.z
@@ -64,6 +64,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LED_5mm_Red
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a6004e26c9ccb55499f49e088a428717, type: 3}
+      propertyPath: m_TagString
+      value: Item
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -96,5 +100,5 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.006099497, y: 0.01302396, z: 0.006605495}
-  m_Center: {x: -0.0002469142, y: 0.0009306844, z: 0.000336021}
+  m_Size: {x: 0.01012694, y: 0.01664477, z: 0.01062151}
+  m_Center: {x: -0.0003913611, y: 0.0002068233, z: 0.0002321648}

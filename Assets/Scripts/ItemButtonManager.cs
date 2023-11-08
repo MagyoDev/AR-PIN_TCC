@@ -10,7 +10,6 @@ public class ItemButtonManager : MonoBehaviour
 {
     // Variáveis para armazenar as informações do item
     private string itemName;
-    private string itemDescription;
     private Sprite itemImage;
     private GameObject item3DModel;
 
@@ -19,7 +18,6 @@ public class ItemButtonManager : MonoBehaviour
 
     // Propriedades para definir as informações do item
     public string ItemName { set { itemName = value; } }
-    public string ItemDescription { set { itemDescription = value; } }
     public Sprite ItemImage { set => itemImage = value; }
     public GameObject Item3DModel { set => item3DModel = value; }
 
@@ -30,7 +28,6 @@ public class ItemButtonManager : MonoBehaviour
         // Atualiza o texto do botão com o nome, a imagem e a descrição do item
         transform.GetChild(0).GetComponent<TMP_Text>().text = itemName;
         transform.GetChild(1).GetComponent<RawImage>().texture = itemImage.texture;
-        transform.GetChild(2).GetComponent<TMP_Text>().text = itemDescription;
 
         // Obtém o componente de botão e adiciona dois ouvintes de clique
         var button = GetComponent<Button>();

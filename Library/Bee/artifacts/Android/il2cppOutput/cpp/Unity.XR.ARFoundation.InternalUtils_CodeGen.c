@@ -35,15 +35,15 @@ static Il2CppMethodPointer s_methodPointers[11] =
 };
 static const int32_t s_InvokerIndices[11] = 
 {
-	5154,
-	2625,
+	5116,
+	2605,
 	0,
-	4765,
+	4730,
 	0,
-	4765,
-	4309,
-	4309,
-	4836,
+	4730,
+	4278,
+	4278,
+	4801,
 	0,
 	0,
 };
@@ -79,7 +79,6 @@ static const Il2CppRGCTXDefinition s_rgctxValues[11] =
 	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_IEnumerable_1_t5DBAD665E2F5E5FD9B0FA190A4617BAD6DF37305 },
 	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_Enumerable_Any_TisTLoader_t26003C476ADF8CC1F57374FEB8D0232AC674F370_m2D9269350ED592D8B5D1F21272BB5CB029FD4B8D },
 };
-extern const Il2CppDebuggerMetadataRegistration g_DebuggerMetadataRegistrationUnity_XR_ARFoundation_InternalUtils;
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_XR_ARFoundation_InternalUtils_CodeGenModule;
 const Il2CppCodeGenModule g_Unity_XR_ARFoundation_InternalUtils_CodeGenModule = 
 {
@@ -95,7 +94,7 @@ const Il2CppCodeGenModule g_Unity_XR_ARFoundation_InternalUtils_CodeGenModule =
 	s_rgctxIndices,
 	11,
 	s_rgctxValues,
-	&g_DebuggerMetadataRegistrationUnity_XR_ARFoundation_InternalUtils,
+	NULL,
 	NULL,
 	NULL,
 	NULL,

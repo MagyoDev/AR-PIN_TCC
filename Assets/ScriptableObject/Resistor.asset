@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b92f9e1736f65440b32681a7fc72cc9, type: 3}
   m_Name: Resistor
   m_EditorClassIdentifier: 
-  ItemName: Resistor10K
+  ItemName: Resistor
   ItemImage: {fileID: 21300000, guid: c1499125156ed7f4d85acaa75bd90ed1, type: 3}
-  ItemDescription: Resistor10K
+  ItemDescription: Resistor
   Item3DModel: {fileID: 382425107211354234, guid: 4c047a3165164dc48b976db146416847, type: 3}

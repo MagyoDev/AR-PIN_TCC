@@ -26,7 +26,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: eeb96ca09569d574087c0aa9bb109027, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: eeb96ca09569d574087c0aa9bb109027, type: 3}
       propertyPath: m_LocalPosition.z
@@ -64,6 +64,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LED_5mm_Green
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eeb96ca09569d574087c0aa9bb109027, type: 3}
+      propertyPath: m_TagString
+      value: Item
+      objectReference: {fileID: 0}
     - target: {fileID: 5737114211128383583, guid: eeb96ca09569d574087c0aa9bb109027, type: 3}
       propertyPath: m_TagString
       value: Item
@@ -74,14 +78,14 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: eeb96ca09569d574087c0aa9bb109027, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 4592377206809252710}
+      addedObject: {fileID: 5986925617062193594}
   m_SourcePrefab: {fileID: 100100000, guid: eeb96ca09569d574087c0aa9bb109027, type: 3}
 --- !u!1 &5575083443261567203 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: eeb96ca09569d574087c0aa9bb109027, type: 3}
   m_PrefabInstance: {fileID: 4728714786421427634}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &4592377206809252710
+--- !u!65 &5986925617062193594
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -100,5 +104,5 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.0060994965, y: 0.013023963, z: 0.0066054952}
-  m_Center: {x: -0.00024691425, y: 0.0009306844, z: 0.00033602095}
+  m_Size: {x: 0.010126939, y: 0.016644768, z: 0.010621514}
+  m_Center: {x: -0.0003913611, y: 0.00020682334, z: 0.00023216485}

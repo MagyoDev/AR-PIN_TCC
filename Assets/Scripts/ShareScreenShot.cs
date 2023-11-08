@@ -59,7 +59,7 @@ public class ScreenShot : MonoBehaviour
 
         // Compartilha a captura de tela usando a biblioteca NativeShare, que permite compartilhar em várias plataformas
         new NativeShare().AddFile(filePath)
-            .SetSubject("Assunto vai aqui").SetText("Teste!")
+            .SetSubject("Assunto vai aqui").SetText("Ei, veja só meu projeto!")
             .SetCallback((result, shareTarget) => Debug.Log("Resultado do compartilhamento: " + result + ", aplicativo selecionado: " + shareTarget))
             .Share();
 

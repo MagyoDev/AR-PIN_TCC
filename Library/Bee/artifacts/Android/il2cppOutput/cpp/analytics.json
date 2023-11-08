@@ -3,7 +3,7 @@
     "attribute_total_count_eager_static_constructor": 9,
     "attribute_total_count_set_option": 0,
     "attribute_total_count_generate_into_own_cpp_file": 0,
-    "attribute_total_count_ignore_by_deep_profiler": 20,
+    "attribute_total_count_ignore_by_deep_profiler": 18,
     "extra_types_total_count": 0,
     "option_extra_types_file_count": 0,
     "option_jobs": 12,
@@ -31,7 +31,7 @@
     "option_convert_to_cpp": true,
     "option_compile_cpp": false,
     "option_development_mode": false,
-    "option_enable_debugger": true,
+    "option_enable_debugger": false,
     "option_generate_usym_file": false
   }
 }
